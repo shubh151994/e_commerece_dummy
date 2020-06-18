@@ -1,0 +1,13 @@
+{
+    "port": 3001,
+    "sql_db": {
+        "e_commerce": {
+            "connectionLimit": 10,
+            "host": "localhost",
+            "user": "shubh",
+            "password": "1234",
+            "database": "e_commerce"
+        }
+    },
+    "jwt_key":"e_commerce"
+}
